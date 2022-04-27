@@ -31,7 +31,7 @@ var main = function() {
     function init() {
         var mapOptions = {
             center: new google.maps.LatLng(40.3951, 49.8491),
-            zoom: 11,
+            zoom: 17,
             zoomControl: true,
             zoomControlOptions: {
                 style: google.maps.ZoomControlStyle.DEFAULT,
