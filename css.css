@@ -107,6 +107,10 @@ hr {
     width: 50%;
     margin: 20px auto;
 }
+#ourloc{
+  text-align: center;
+  margin-top:20px;
+}
 #about {
     min-height: 100vh;
     margin-top: 100px;
